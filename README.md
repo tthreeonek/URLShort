@@ -12,8 +12,9 @@
 
 ## Установка и запуск
 ```bash
-git clone [ваш-репозиторий]
+git clone URLShort
 cd URLShort
 mvn compile
 mvn exec:java -Dexec.mainClass="Main"
+
 ```
